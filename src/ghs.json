@@ -167,7 +167,7 @@
     "firstNightReminder": "none",
     "otherNight": 0,
     "otherNightReminder": "none",
-    "reminders": ["+1生命"
+    "reminders": ["+1生命",
                  "+2生命"],
     "setup": false,
     "ability": "如果你相邻身边的玩家死亡，你将多一条命。（最多+2）"
